@@ -12,7 +12,7 @@
         <h2>Data Engineering</h2>
         <ul>
             <li>
-                <a href="https://getpocket.com/redirect?url=http%3A%2F%2Fhadoopecosystemtable.github.io%2F">Hadoop</a>
+                <a href="https://www.allthingsdistributed.com/">Hadoop</a>
             </li>
         </ul>
     </section>
