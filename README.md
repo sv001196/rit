@@ -7,7 +7,8 @@
             </li>
         </ul>
     </section>
-
+</div>
+<div>
     <section>
         <h2>Data Engineering</h2>
         <ul>
