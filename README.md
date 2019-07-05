@@ -1,4 +1,4 @@
-<div>
+
     <section>
         <h2>Distributed Systems</h2>
         <ul>
@@ -7,8 +7,8 @@
             </li>
         </ul>
     </section>
-</div>
-<div>
+
+
     <section>
         <h2>Data Engineering</h2>
         <ul>
@@ -17,7 +17,7 @@
             </li>
         </ul>
     </section>
-</div>
+
 
 <div>
     <blockquote>
