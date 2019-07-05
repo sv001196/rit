@@ -1,16 +1,23 @@
-<section>
-    <h1>Blogs</h1>
+<div>
+    <section>
+        <h2>Distributed Systems</h2>
         <ul>
-            <li>All Things Distributed</li>
+            <li>
+                <a href="https://www.allthingsdistributed.com/">All Things Distributed</a>
+            </li>
         </ul>
-</section>
-    
-<section>
-    <h1>Data engineering</h1>
-    <ul>
-        <li>All Things Distributed</li>
-    </ul>
-</section>
+    </section>
+
+    <section>
+        <h2>Data Engineering</h2>
+        <ul>
+            <li>
+                <a href="https://getpocket.com/redirect?url=http%3A%2F%2Fhadoopecosystemtable.github.io%2F">Hadoop</a>
+            </li>
+        </ul>
+    </section>
+
+</div>
 
 <div>
     <blockquote>
